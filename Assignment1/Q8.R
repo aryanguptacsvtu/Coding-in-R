@@ -7,3 +7,5 @@ remaining <- vec[-c(1, length(vec))]
 
 # Print the resulting vector
 print(remaining)
+# Output :-
+#[1]   3.75   4.50   5.25   6.00   2.00  -5.10 -33.00   2.00  -5.10 -33.00
