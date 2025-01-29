@@ -10,6 +10,11 @@ last <- vec[length(vec)]
 
 # Print the first element
 print(first)
+# Output :-
+#[1] 3
+
 
 # Print the last element
 print(last)
+# Output :-
+#[1] 2.166667
