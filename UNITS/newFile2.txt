@@ -1,0 +1,7 @@
+person@age@gender@funny@age.mon
+1@Peter@42@M@High@??
+2@Lois@40@F@High@480
+3@Meg@17@F@Low@204
+4@Chris@14@M@??@168
+5@Stewie@1@M@High@12
+6@Brian@7@M@Med@84

@@ -1,0 +1,7 @@
+"person"@"age"@"gender"@"funny"@"age.mon"
+"Peter"@42@"M"@"High"@??
+"Lois"@40@"F"@"High"@480
+"Meg"@17@"F"@"Low"@204
+"Chris"@14@"M"@??@168
+"Stewie"@1@"M"@"High"@12
+"Brian"@7@"M"@"Med"@84
